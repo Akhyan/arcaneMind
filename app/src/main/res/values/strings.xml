@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Digiguard 2.1</string>
+    <string name="title_activity_login_home">LoginHome</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_welcome">Welcome</string>
+
+    <string name="sydney_number">02 9649 4477</string>
+    
+    <string-array name="Intercom">
+        <item>Intercom Kit</item>
+        <item>Monitor and Door Station</item>
+    </string-array>
+
+    
+</resources>
